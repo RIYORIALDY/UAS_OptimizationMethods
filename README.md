@@ -56,13 +56,11 @@ UAS_OptimizationMethods/
 
 ---
 
-# 👤 Author
+## 👤 Author
 
 Riyo Rialdy Urda
 Teknik Informatika
 📌 GitHub: https://github.com/RIYORIALDY
-
----
 
 Kalau mau, aku bisa:
 - ✨ Bikin versi **lebih formal dosen-style**
