@@ -5,6 +5,8 @@
 Implementasi **Gradient Descent untuk Linear Regression** sebagai **Ujian Akhir Semester (UAS) Optimization Methods**.  
 Project ini dirancang **sesuai rubrik penilaian** dan terintegrasi penuh antara **Excel, Python, dan Streamlit**.
 
+<img width="1360" height="688" alt="Image" src="https://github.com/user-attachments/assets/ebc482ba-c0de-4afe-a190-201e40065d46" />
+
 ---
 
 ## 📋 Deskripsi Project
