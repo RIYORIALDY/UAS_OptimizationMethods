@@ -54,12 +54,13 @@ UAS_OptimizationMethods/
 ├── requirements.txt   # Dependency
 └── README.md          # Dokumentasi project
 
+---
+
 # 👤 Author
 
 Riyo Rialdy Urda
 Teknik Informatika
 📌 GitHub: https://github.com/RIYORIALDY
-
 
 ---
 
@@ -70,4 +71,4 @@ Kalau mau, aku bisa:
 - 🔥 Optimasi biar keliatan *professional portfolio*
 
 Tinggal bilang mau yang mana.
-
+---
