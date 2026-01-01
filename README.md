@@ -66,11 +66,3 @@ UAS_OptimizationMethods/
 Riyo Rialdy Urda
 Teknik Informatika
 📌 GitHub: https://github.com/RIYORIALDY
-
-Kalau mau, aku bisa:
-- ✨ Bikin versi **lebih formal dosen-style**
-- 📄 Sesuaikan **format IEEE / kampus**
-- 🖼️ Tambahin **screenshot app** di README
-- 🔥 Optimasi biar keliatan *professional portfolio*
-
-Tinggal bilang mau yang mana.
