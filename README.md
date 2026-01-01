@@ -54,7 +54,7 @@ UAS_OptimizationMethods/
 ├── requirements.txt   # Dependency
 └── README.md          # Dokumentasi project
 
----
+
 
 ## 👤 Author
 
@@ -69,4 +69,3 @@ Kalau mau, aku bisa:
 - 🔥 Optimasi biar keliatan *professional portfolio*
 
 Tinggal bilang mau yang mana.
----
