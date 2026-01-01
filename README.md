@@ -1,8 +1,6 @@
-# 🚀 UAS Optimization Methods - Gradient Descent
-
 # 🚀 UAS Optimization Methods – Gradient Descent
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://uasoptimizationmethods.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://uasoptimizationmethods.streamlit.app) https://uasoptimizationmethods.streamlit.app/
 
 Implementasi **Gradient Descent untuk Linear Regression** sebagai **Ujian Akhir Semester (UAS) Optimization Methods**.  
 Project ini dirancang **sesuai rubrik penilaian** dan terintegrasi penuh antara **Excel, Python, dan Streamlit**.
@@ -55,4 +53,21 @@ UAS_OptimizationMethods/
 ├── program_2.py       # ✨ Streamlit App
 ├── requirements.txt   # Dependency
 └── README.md          # Dokumentasi project
+
+# 👤 Author
+
+Riyo Rialdy Urda
+Teknik Informatika
+📌 GitHub: https://github.com/RIYORIALDY
+
+
+---
+
+Kalau mau, aku bisa:
+- ✨ Bikin versi **lebih formal dosen-style**
+- 📄 Sesuaikan **format IEEE / kampus**
+- 🖼️ Tambahin **screenshot app** di README
+- 🔥 Optimasi biar keliatan *professional portfolio*
+
+Tinggal bilang mau yang mana.
 
