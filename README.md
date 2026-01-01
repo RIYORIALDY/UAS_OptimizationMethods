@@ -54,7 +54,7 @@ UAS_OptimizationMethods/
 ├── requirements.txt   # Dependency
 └── README.md          # Dokumentasi project
 
-
+```
 
 ## 👤 Author
 
