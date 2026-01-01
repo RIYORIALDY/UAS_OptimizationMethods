@@ -1,4 +1,4 @@
-##🚀 UAS Optimization Methods - Gradient Descent
+# 🚀 UAS Optimization Methods - Gradient Descent
 
 [![Streamlit App](https://uasoptimizationmethods.streamlit.app/)
 
