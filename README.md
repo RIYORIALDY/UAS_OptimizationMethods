@@ -64,5 +64,5 @@ UAS_OptimizationMethods/
 ## 👤 Author
 
 Riyo Rialdy Urda
-Teknik Informatika
+Data Science
 📌 GitHub: https://github.com/RIYORIALDY
